@@ -14,3 +14,8 @@ If there is a problem with pip install, try using:
 ```bash
 pip install --no-cache-dir -r requirements.txt
 ```
+## Authors
+- https://github.com/JakubKubin
+- https://github.com/el-tumero
+- https://github.com/ktrzaskoma
+- https://github.com/bercikkkk

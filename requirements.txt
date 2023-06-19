@@ -1,0 +1,4 @@
+retinaface==1.1.1
+flask
+deepface
+retina-face==0.0.13

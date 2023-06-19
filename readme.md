@@ -4,7 +4,7 @@
 - ```pip install -r requirements.txt```
 - Run server.py (tested with test.py)
 
-## Frontend:
+## Front-end:
 There is a possibility to download frontend application made with Electron at https://github.com/JakubKubin/FaceRecognitionApp
 <img src="https://github.com/JakubKubin/FaceRecognition/blob/main/demo_pic.png">
 
